@@ -13,3 +13,7 @@ Postmortem single-cell studies have transformed understanding of lower respirato
 # Atlas Resources
 Check out the interactive single cell atlas hosted on the cellxgeneVIP platform hosted by the University of Glasgow, by clicking on the URL below:
 - IMC - [https://cellatlas-cxg.mvls.gla.ac.uk/COSMIC/view/COSMIC_IMC_Lung.h5ad/]
+
+# Code Layout
+## IMC analysis and figures:
+Scripts containing pre-processing, image denoise, cell segmentation, single-cell and spatial statistics analysis as well as visualisation plots for the Imaging Mass Cytometry of the post-mortem lung sections.
